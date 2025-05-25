@@ -1,2 +1,3 @@
 a = 301
-print("I like cheese!")
+print("I like cheese a lot!")
+print(a)
